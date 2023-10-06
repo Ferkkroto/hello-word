@@ -7,5 +7,6 @@
 2. Segundo elemento
 3. Tercer elemento
 4. [Google](https://www.google.com)
-5. (https://tse2.mm.bing.net/th?id=OIP.Fl_53pQDYB9rY8mgEyucNAHaJ4&pid=Api&P=0&h=180)
+5. ![Logo de GitHub](https://tse1.mm.bing.net/th?id=OIP.gI8RT3BMSTqMaSBDt2OdaAHaEX&pid=Api&P=0&h=180)
+
 
