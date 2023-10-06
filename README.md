@@ -1,2 +1,2 @@
 # hello-word
-practica del profe Luis
+esta es una practica sobre como crear un repositorio en hit
