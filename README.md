@@ -6,6 +6,6 @@ esta es una practica sobre como crear un repositorio en hit
 1. Primer elemento
 2. Segundo elemento
 3. Tercer elemento
-[Google](https://www.google.com)
-![Logo de GitHub](https://github.com/logogithub.png)
+4.[Google](https://www.google.com)
+5.![Logo de GitHub](https://tse2.mm.bing.net/th?id=OIP.Fl_53pQDYB9rY8mgEyucNAHaJ4&pid=Api&P=0&h=180)
 
